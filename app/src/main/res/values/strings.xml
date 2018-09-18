@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DemoProject</string>
+
+    <string-array name="product">
+        <item>Product</item>
+        <item>Viega</item>
+        <item>Bathroom filttings</item>
+        <item>Hunter Douglas</item>
+        <item>Facade</item>
+        <item>Tiles</item>
+        <item>Wood floring</item>
+    </string-array>
+
+    <string-array name="Reference">
+        <item>Reference</item>
+        <item>Niraj Kumar</item>
+        <item>Ram</item>
+        <item>Ankit</item>
+        <item>Meenaji</item>
+        <item>Gopal</item>
+        <item>Aanad</item>
+    </string-array>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Cancel</string>
+</resources>
